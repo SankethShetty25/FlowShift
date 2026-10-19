@@ -1,0 +1,5 @@
+# Requirements for FlowShift backend
+django>=4.2,<5.2
+djangorestframework>=3.14.0
+django-cors-headers>=4.3.0
+networkx>=3.0
